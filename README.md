@@ -189,7 +189,8 @@ the list of recorded injuries.
 Citation
 --------
 
-TITCO collaborators (2017) TITCO dataset version 1
+TITCO collaborators (2017). TITCO dataset version 1. Available from
+https://github.com/titco/titco-I.
 
 Credits
 -------
