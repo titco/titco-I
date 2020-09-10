@@ -15,10 +15,9 @@ Background and summary
 
 In this document we present the central characteristics of the TITCO-I
 dataset, including the origin of the data and how it was collected.
-Along with this document you should have received copies of the
-following files:
+Along with this document the following files are included in this
+repository:
 
--   README.{org,pdf,txt} (org, PDF or plain text versions of this file)
 -   titco-I-full-dataset-v1.csv (full dataset)
 -   titco-I-limited-dataset-v1.csv (limited dataset, includes a random
     sample of 1000 observations from the full dataset)
@@ -35,7 +34,7 @@ your analysis software of choice (titco-I-dataset-v1.csv). Useful guides
 are available at:
 
 -   [Microsoft
-    Excel](https://support.office.com/en-us/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
+Excel](https://support.office.com/en-us/article/Import-or-export-text-txt-or-csv-files-5250ac4c-663c-47ce-937b-339e391393ba)
 -   [SPSS](http://www-01.ibm.com/support/docview.wss?uid%3Dswg21480145)
 -   [STATA](http://www.stata.com/features/overview/importing-and-exporting-text-delimited-data/)
 -   [R](http://www.statmethods.net/input/importingdata.html)
