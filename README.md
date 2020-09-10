@@ -174,17 +174,17 @@ grouped toghether.
 
 ### Injury descriptors and codes
 
-A random selection of 1% of injury descriptors entered into each of the
-variables e~1~, e~2~, e~3~, e~4~, e~5~, e~6~, e~7~, e~8~, e~9~, e~10~,
-e~11~, e~12~, xray~1~, xray~2~, xray~3~, xray~4~, xray~5~, xray~6~,
-xray~7~, xray~8~, xray~9~, xray~10~, xray~11~, fast~1~, fast~2~,
-fast~3~, fast~4~, fast~5~, fast~6~, fast~7~, fast~8~, fast~9~, fast~10~,
-fast~11~, ct~1~, ct~2~, ct~3~, ct~4~, ct~5~, ct~6~, ct~7~, ct~8~, ct~9~,
-ct~10~, ct~11~, ct~12~, ct~13~, op~1~, op~2~, op~3~, op~4~, op~5~,
-op~6~, op~7~, op~8~, op~9~, op~10~, op~11~ were set to missing.
-Corresponding ICD-10 codes were also set to missing. This was done to
-prevent identification of patients based on the list of recorded
-injuries.
+A random selection of 1% of injury descriptors entered into each of
+the variables e\_1, e\_2, e\_3, e\_4, e\_5, e\_6, e\_7, e\_8, e\_9,
+e\_10, e\_11, e\_12, xray\_1, xray\_2, xray\_3, xray\_4, xray\_5,
+xray\_6, xray\_7, xray\_8, xray\_9, xray\_10, xray\_11, fast\_1,
+fast\_2, fast\_3, fast\_4, fast\_5, fast\_6, fast\_7, fast\_8,
+fast\_9, fast\_10, fast\_11, ct\_1, ct\_2, ct\_3, ct\_4, ct\_5, ct\_6,
+ct\_7, ct\_8, ct\_9, ct\_10, ct\_11, ct\_12, ct\_13, op\_1, op\_2,
+op\_3, op\_4, op\_5, op\_6, op\_7, op\_8, op\_9, op\_10, op\_11 were
+set to missing.  Corresponding ICD-10 codes were also set to
+missing. This was done to prevent identification of patients based on
+the list of recorded injuries.
 
 Citation
 --------
