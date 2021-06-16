@@ -7,7 +7,7 @@ Licence and terms of use
 [![License: CC BY 4.0](https://img.shields.io/badge/License-CC%20BY%204.0-lightgrey.svg)](https://creativecommons.org/licenses/by/4.0/)
 
 Note that any use of this dataset is subject to the terms in the
-[LICENCE](LICENCE.md) as well as in the [POLICY](policy.md). Read
+[LICENSE](LICENSE.md) as well as in the [POLICY](policy.md). Read
 these carefully before you download or in any way use the data.
 
 Background and summary
