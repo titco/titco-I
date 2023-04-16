@@ -1,6 +1,8 @@
 TITCO-I dataset version 1
 =========================
 
+[![DOI](https://zenodo.org/badge/294481786.svg)](https://zenodo.org/badge/latestdoi/294481786)
+
 Licence and terms of use
 ------------------------
 
