@@ -15,14 +15,19 @@ these carefully before you download or in any way use the data.
 Citation
 --------
 
-Towards Improved Trauma Care Outcomes (TITCO) collaborators. The TITCO Cohort. 2017, https://doi.org10.5281/zenodo.7832819.
+Towards Improved Trauma Care Outcomes (TITCO) collaborators. (2020). The original anonymized TITCO cohort (v1.0.0) [Data set]. Zenodo. https://doi.org/10.5281/zenodo.7832819
 
 ```
-@Misc{titco2017,
-  author = 	 {{Towards Improved Trauma Care Outcomes (TITCO) collaborators}},
-  title = 	 {The TITCO cohort},
-  year = 	 2017,
-  doi =          {10.5281/zenodo.7832819}}
+@dataset{towards_improved_trauma_care_outcomes_ti_2020_7832819,
+  author       = {Towards Improved Trauma Care Outcomes (TITCO) collaborators},
+  title        = {The original anonymized TITCO cohort},
+  month        = sep,
+  year         = 2020,
+  publisher    = {Zenodo},
+  version      = {v1.0.0},
+  doi          = {10.5281/zenodo.7832819},
+  url          = {https://doi.org/10.5281/zenodo.7832819}
+}
 ```
 
 Background and summary
