@@ -12,6 +12,19 @@ Note that any use of this dataset is subject to the terms in the
 [LICENSE](LICENSE.md) as well as in the [POLICY](policy.md). Read
 these carefully before you download or in any way use the data.
 
+Citation
+--------
+
+Towards Improved Trauma Care Outcomes (TITCO) collaborators. The TITCO Cohort. 2017, https://doi.org10.5281/zenodo.7832819.
+
+```
+@Misc{titco2017,
+  author = 	 {{Towards Improved Trauma Care Outcomes (TITCO) collaborators}},
+  title = 	 {The TITCO cohort},
+  year = 	 2017,
+  doi =          {10.5281/zenodo.7832819}}
+```
+
 Background and summary
 ----------------------
 
@@ -187,12 +200,6 @@ op\_3, op\_4, op\_5, op\_6, op\_7, op\_8, op\_9, op\_10, op\_11 were
 set to missing.  Corresponding ICD-10 codes were also set to
 missing. This was done to prevent identification of patients based on
 the list of recorded injuries.
-
-Citation
---------
-
-TITCO collaborators (2017). TITCO dataset version 1. Available from
-https://github.com/titco/titco-I.
 
 Credits
 -------
